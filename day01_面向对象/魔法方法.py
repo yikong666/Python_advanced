@@ -1,0 +1,1 @@
+class WashingMachine(object):
